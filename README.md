@@ -3,7 +3,7 @@
 </p>
 
 
-![Continuous Integration](https://github.com/GoogleCloudPlatform/microservices-demo/workflows/Continuous%20Integration%20-%20Master/Release/badge.svg)
+
 
 
 **Online Boutique** is a cloud-native microservices demo application.
